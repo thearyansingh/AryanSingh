@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **singharyan5656@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on: Chat Application
 - 🌱 **I’m currently learning:** Typescript
 - 💬 **Ask me about:** Collaboration,Tech Support
 - 📫 **How to reach me:** singharyan5656@gmail.com or Linkedin
