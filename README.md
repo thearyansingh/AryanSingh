@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **singharyan5656@gmail.com** For Collaboration/Project or A
 - 🌱 **I’m currently learning:** Typescript
 - 💬 **Ask me about:** Collaboration,Tech Support
 - 📫 **How to reach me:** singharyan5656@gmail.com or Linkedin 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Full Stack developer. 😊😊
 ## 🌐 Socials:
